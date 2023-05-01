@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/villanueva/static/css/main.b7b7c9f3.css",
+    "main.js": "/villanueva/static/js/main.0b9eeb97.js",
+    "static/js/787.ae699f74.chunk.js": "/villanueva/static/js/787.ae699f74.chunk.js",
+    "static/media/aris.gif": "/villanueva/static/media/aris.44e001e2eba8eca3f3db.gif",
+    "index.html": "/villanueva/index.html",
+    "main.b7b7c9f3.css.map": "/villanueva/static/css/main.b7b7c9f3.css.map",
+    "main.0b9eeb97.js.map": "/villanueva/static/js/main.0b9eeb97.js.map",
+    "787.ae699f74.chunk.js.map": "/villanueva/static/js/787.ae699f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b7c9f3.css",
+    "static/js/main.0b9eeb97.js"
+  ]
+}
